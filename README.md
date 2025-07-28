@@ -20,13 +20,7 @@ This repository contains a Power BI dashboard developed for **Madhav Store**, ai
 * **Microsoft Excel** – Source file for raw sales and order data
 * **DAX** – For custom measures and calculated columns
 
----
 
-### 📷 Dashboard Preview
-
-
-
-![Sales Overview](Dashboard Preview.png)
 
 
 
