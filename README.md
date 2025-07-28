@@ -24,12 +24,11 @@ This repository contains a Power BI dashboard developed for **Madhav Store**, ai
 
 ### 📷 Dashboard Preview
 
-> (Add your dashboard screenshots here using Markdown syntax like below 👇)
 
-```markdown
-![Sales Overview](images/sales-overview.png)
-![Product Analysis](images/product-analysis.png)
-```
+
+![Sales Overview](Dashboard Preview.png)
+
+
 
 ---
 
@@ -65,6 +64,7 @@ This repository contains a Power BI dashboard developed for **Madhav Store**, ai
 
 **Mangal Singh**
 📫 [LinkedIn](https://www.linkedin.com/in/mangal-singh123)
+
 📌 Aspiring Data Scientist | Excel | Power BI | SQL | Python
 
 ---
