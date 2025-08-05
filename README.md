@@ -1,5 +1,8 @@
 ## 📊 Madhav Store Dashboard - Power BI
 
+![Madhav Store Dashboard](Dashboard%20Preview.png)
+
+
 This repository contains a Power BI dashboard developed for **Madhav Store**, aimed at delivering clear and actionable business insights. The dashboard enables quick analysis of key performance indicators like sales, profit trends, top-performing products, and customer insights — all essential for making data-driven decisions.
 
 ---
